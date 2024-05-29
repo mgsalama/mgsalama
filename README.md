@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<p>My name is Manaar Salama, and I'm a fourth year at UC Berkeley studying Data Science.</p>
+<p>My name is Manaar Salama, and I'm a new grad from UC Berkeley with a major in Data Science.</p>
 
 <p><a href="https://mgsalama.github.io" target="_blank">Take a look at my portfolio site here!</a></p>
 
